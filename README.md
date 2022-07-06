@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaryLight774
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning HTML/ CSS
+- 🌱 I’m currently learning HTML/ CSS / JS
 - 💞️ I’m looking to collaborate on School Projects
 - 📫 How to reach me?
 
