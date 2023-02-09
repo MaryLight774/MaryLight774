@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaryLight774
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning HTML/ CSS / JS
-- 💞️ I’m looking to collaborate on School Projects
-- 📫 How to reach me?
+- 🌱 I’m currently learning HTML/ CSS / JS / PHP
+- 💞️ I’m looking for a web developer / frontend developer position
+- 📫 Reach me throught linkedin: www.linkedin.com/in/mariaclaradutrasilveira
 
 <!---
 MaryLight774/MaryLight774 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
