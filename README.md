@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaryLight774
 - 👀 I’m interested in being a full-stack developer
-- 🌱 I’m currently learning HTML/ CSS / JS / PHP / Java / C / Python
+- 🌱 I’m currently learning HTML/ CSS / JS / PHP / Java / C / Python / React / Angular
 - 💞️ I’m looking for a web developer / frontend developer position or full-stack
 - 📫 Reach me throught linkedin: www.linkedin.com/in/mariaclaradutrasilveira
 
